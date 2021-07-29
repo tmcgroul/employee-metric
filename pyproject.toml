@@ -6,6 +6,7 @@ authors = ["tmcgroul <safonov.a.r@mail.ru>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+flake8 = "3.9.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
